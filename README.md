@@ -136,12 +136,9 @@ Worked on **BudgetWise**, an AI-driven expense tracking and budget advisory plat
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rikshith-07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikshith-07&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+Building consistently through real projects, backend development, AI integrations, and open-source experimentation.
 
 ---
 
