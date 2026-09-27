@@ -8,7 +8,7 @@ I build full-stack applications, backend systems, and AI-powered products with a
   <a href="https://rikshith-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rikshith-raviteja-723956304/">
+  <a href="https://www.linkedin.com/in/kuruva-rikshith-raviteja/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Rikshith7/">
@@ -159,7 +159,7 @@ Worked on **BudgetWise**, an AI-driven expense tracking and budget advisory plat
   <a href="https://rikshith-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rikshith-raviteja-723956304/">
+  <a href="https://www.linkedin.com/in/kuruva-rikshith-raviteja/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Rikshith7/">
